@@ -1,0 +1,29 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     45.32576034 deg
+Longitude:    36.58715495 deg
+Altitude ASL: 3079.5523 m (10103.5181 ft)
+42Heading:      78.4 deg
+Ground Elev:  -0.7623 m (-2.5010 ft)
+
+# e030n40/e036n45/3547602.stg
+OBJECT_STATIC 36.58715495 45.32576034 -0.7623 281.6
+
+http://maps.google.com/maps?ll=45.3257603439,36.5871549477&z=12&t=h
+$ fgfs --aircraft=ufo --lat=45.325760 --lon=36.587155 --altitude=10103.52 --heading=26.5
+
+
+------------------------ Selected Object -------------------------
+Path:         Models/StreetFurniture/KerchBridge.ac
+Latitude:     45.32931856 deg
+Longitude:    36.63354545 deg
+Altitude ASL: -0.5246 m (-1.7212 ft)
+Heading:      30.9 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# 
+OBJECT_SHARED Models/StreetFurniture/KerchBridge.ac 36.63354545 45.32931856 -0.5246 329.1 0.0 -0.0
